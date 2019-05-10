@@ -2,6 +2,14 @@
 [![Build Status](https://img.shields.io/travis/spockframework/spock-example/master.svg?label=Build)](https://travis-ci.org/spockframework/spock-example)
 [![Gitter](https://badges.gitter.im/spockframework/spock.svg)](https://gitter.im/spockframework/spock?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+Descendants And Palindromes Project
+===================================
+
+This project is my response to a coding test that I did for MediaTek.  I started by
+ forking the spockframework/spock-example project as a template for this project, deleted
+  the example code .  The code is written in Groovy.  The testing framework is Spock.
+
+
 Spock Framework Example Project
 ===============================
 
