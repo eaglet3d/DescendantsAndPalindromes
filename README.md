@@ -9,9 +9,16 @@ This project is my response to a coding test that I did for MediaTek.  I started
  forking the spockframework/spock-example project as a template for this project, deleted
   the example code .  The code is written in Groovy.  The testing framework is Spock.
 
+This project's code is located in the src/main/groovy directory.
 
-Spock Framework Example Project
-===============================
+This project's tests are located in the src/test/groovy directory.
+
+Ralph A. Navarro Jr.
+Email: ralph@navarrocomputing.com 
+
+
+Parent Project: Spock Framework Example Project
+===============================================
 
 The purpose of this project is to help you get started with Spock. The project includes several example specifications and build scripts for Ant, Gradle, and Maven. It also makes it easy to create an Eclipse or IDEA project, allowing you to run the example specs from within your IDE.
 
